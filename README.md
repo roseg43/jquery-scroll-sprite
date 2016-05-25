@@ -14,7 +14,8 @@ var soda = new SpriteScroll({
   elementId: 'bottle',
   scrollBounds: 920,
   scrollSpeed: 24
-});```
+});
+```
 
 ## Options
 Name | Type | Description
