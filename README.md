@@ -17,6 +17,8 @@ var soda = new SpriteScroll({
 });
 ```
 
+After instantiation, simply call `foo.init()` to bind event handlers to the DOM and start the animation.
+
 ## Options
 Name | Type | Description
 --- | --- | ---
